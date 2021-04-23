@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingComTests", "BookingComTests\BookingComTests.csproj", "{4F7D6A20-3787-4DBC-9D67-51F6CB853329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaweatherComTests", "MetaweatherComTests\MetaweatherComTests.csproj", "{4594BACD-22F3-415F-A5E7-EB0251B90CD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F7D6A20-3787-4DBC-9D67-51F6CB853329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7D6A20-3787-4DBC-9D67-51F6CB853329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7D6A20-3787-4DBC-9D67-51F6CB853329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7D6A20-3787-4DBC-9D67-51F6CB853329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4594BACD-22F3-415F-A5E7-EB0251B90CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4594BACD-22F3-415F-A5E7-EB0251B90CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4594BACD-22F3-415F-A5E7-EB0251B90CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4594BACD-22F3-415F-A5E7-EB0251B90CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBD2BA4F-194A-46D4-8D33-A889D9CE98D7}
+	EndGlobalSection
+EndGlobal
